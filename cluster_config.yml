@@ -1,0 +1,29 @@
+---
+downloadData: 
+  mem: 2G
+download_gen_annotation: 
+  mem: 1G
+download_genome: 
+  mem: 1G
+fastqNameFormat: 
+  mem: 1G
+listAcc: 
+  mem: 1G
+mapping: 
+  mem: 15G
+qualityControl: 
+  mem: 10G
+sicklePE: 
+  mem: 3G
+sickleSE: 
+  mem: 3G
+trimAdaptorsPE: 
+  mem: 3G
+trimAdaptorsSE: 
+  mem: 3G
+trimmingPE: 
+  mem: 3G
+trimmingSE: 
+  mem: 3G
+sra2fastqAlt:
+  mem: 4G

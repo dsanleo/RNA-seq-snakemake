@@ -1,0 +1,6 @@
+channels:
+ - bioconda
+
+dependencies:
+ - cutadapt = 1.16
+ - trim-galore = 0.4.5
