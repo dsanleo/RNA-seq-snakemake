@@ -18,7 +18,7 @@ Requeriments
 -
 Go to the directory where you want to make the analysis, eg. /exports/humgen/USERDIR (replace USERDIR by your directory in Shark)
 ```
-git clone https://git.lumc.nl/dsanleongranado/RNA-seq-snakemake.git
+https://github.com/dsanleo/RNA-seq-snakemake.git
 ```
 This will create a directory named RNA-seq-snakemake and inside there are the scripts and files.
 
